@@ -74,4 +74,4 @@ getgenv().Cards = {
     "+ Enemy Regen III",    
     "+ New Path"
 }
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Ayanok0ji/rvxploit-hub/refs/heads/main/pickcard.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Bocchi-World/Bocchi-Main/refs/heads/main/pickcard.lua"))()
